@@ -1,0 +1,24 @@
+What is the difference between a host and an end system? List several differ
+ent types of end systems. Is a Web server an end system?
+ANSWERS:host is any device connected to a the internet but can aslo be a sever. an end system is also a device connected to the internet but the reason we call them end systems they sit at thye end of a network.
+ANSWERS: Different end systems
+phone, computer,  laptop,tv,router,web severs, mail severs
+yes a web sever counts as a end system 
+qouestion 2 foem section 1.1 Describe the protocol that might be used by two people having a telephonic 
+conversation to initiate and end the conversation, i.e., the way that they talk.
+ANSWER FOR QUESTION 2: 
+1 INITIATION PHASE ivdividual A enters individual B phone number and calles him/her
+Individual b answers the phone 
+individual A typically people say hi or hello depending on where you live
+individual B says something along the lines of hello . { established a connection } 
+TERMINATION PHASE typically people say something along the lines of goodbye one terminates the call using a button in morden technology
+QUESTION 3 from section 1.1 Why are standards important for protocols?
+protocls are important for a number of reasons but i think the most important is network layer depend on protocols to diliver differnt function
+SECTION 1.2
+   
+R4. List four access technologies. Classify each one as home access, enterprise 
+access, or wide-area wireless access.
+ANSWERS: at the moment currently using fiber to the home so home access
+ethernet enterprise acess 
+4G/5G cellular infrastruture wide area network
+dsl digital suscriber line home access
